@@ -1,3 +1,3 @@
 #!/bin/bash
 
-obfs-local -c /conf/config.json
+exec obfs-local -c /conf/config.json
